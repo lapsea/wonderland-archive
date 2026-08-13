@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Claude Code 本地配置（不属于项目内容）
+.claude/
